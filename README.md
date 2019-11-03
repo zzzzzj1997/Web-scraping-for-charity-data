@@ -1,5 +1,5 @@
 # Web-scraping-for-charity-data
-(1) About "uscharity" "uscharitypart2"
+(1) About "guidestar" "guidestar"
 In terms of the reason why I put two similiar code and run twice (only details about specific xpath to locate change),
 there are two tables of data we want to extract, even though the data of both part can be found from the saved html, but
 the code could extract nothing if it does not appear on the page. No error occured but still no successful extraction.
